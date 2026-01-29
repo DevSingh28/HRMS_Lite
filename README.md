@@ -7,6 +7,17 @@ The focus of this project is correctness, clarity, and real-world usability rath
 
 ---
 
+## 🌐 Live Demo
+
+- **Frontend:** https://hrms-lite-dev.netlify.app/
+- **Backend API:** https://hrms-lite-xejf.onrender.com
+- **API Documentation (Swagger):** https://hrms-lite-xejf.onrender.com/docs
+- **GitHub Repository:** https://github.com/DevSingh28/HRMS_Lite
+
+---
+
+---
+
 ## 🔧 Tech Stack
 
 ### Frontend
@@ -111,3 +122,5 @@ The frontend will run at:
 http://localhost:5173
 
 ```
+
+
